@@ -1,0 +1,1 @@
+# rocketmqproducer 以jar包方式封装rocketmq的消费端项目demo
